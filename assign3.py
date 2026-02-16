@@ -33,5 +33,3 @@ def cal():
     print(f'Sine: {sin(num)}')
 
 cal()
-
-#Task 3:
